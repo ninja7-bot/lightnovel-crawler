@@ -60,9 +60,6 @@
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-apt"
-    },
-    {
-      "url": "https://github.com/NNTin/heroku-buildpack-calibre"
     }
   ]
 }
